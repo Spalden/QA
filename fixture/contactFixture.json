@@ -1,0 +1,41 @@
+{
+    "firstName":"Palden",
+    "lastName":"Sherpa",
+    "dob":"2061-05-06",
+    "email":"hello.Palden@gmail.com",
+    "phone":"9841428133",
+    "address":{
+        "streetAddress":"Dhalko",
+        "city":"Kathmandu",
+        "state":"Bagmati",
+        "postal":"4600",
+        "country":"Nepal"
+    },
+
+    "invalidContact": {
+       "FirstName":"",
+       "LastName":"",
+       "Date of Birth":"200/06-15",
+       "Email":"kequingmain55@gmail.com",
+       "Phone":"12345",
+       "Street Address 1":"",
+       "Street Address 2":"",
+       "City":"",
+       "State of Province":"",
+       "postalCode":"",
+       "Country":""
+    },
+        "editContact": {
+       "FirstName":"Hawa",
+       "LastName":"Edit",
+       "Date of Birth":"2000-07-15",
+       "Email":"kequingmain55@gmail.com",
+       "Phone":"1234567890",
+       "Street Address 1":"asdasd",
+       "Street Address 2":"asdsad",
+       "City":"asdasd",
+       "State of Provience":"asdasd",
+       "postalCode":"asdasda",
+       "Country":"asdasdas"
+    }
+}

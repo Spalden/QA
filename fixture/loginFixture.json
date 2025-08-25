@@ -1,0 +1,10 @@
+{
+    "ValidUser":{
+        "userName" : "hello.palden@gmail.com",
+        "password" : "Palden@99"
+    },
+    "inValidUser" :{
+        "userName" :"ram@gmail.com",
+        "password" :"Palden@99"
+    }
+}
